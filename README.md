@@ -6,6 +6,8 @@ This repo contains files and articles related to my capstone this spring. I work
 
 Much of my work happened in ACCRE using slurm scripts which I can't really link here. I did upload an example slurm script in the training folder above, but I don't have a lot of notebooks or specific code to report on my repository. 
 
+I also began working on image captioning and prompts, so I've linked some of the resources I have been looking at here as well.  
+
 ## Resources:
 
 Lab website: https://vkc.vumc.org/multisensory/index.html
