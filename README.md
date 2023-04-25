@@ -4,21 +4,13 @@
 
 This repo contains files and articles related to my capstone this spring. I worked on a project with the Multisensory Research Lab in VUMC and focused on implementing [Muse](https://muse-model.github.io) text-to-image model, [training neural networks](https://github.com/pytorch/examples/tree/main/imagenet) on ImageNet, and began working on image captioning and text prompts.
 
-Much of my work happened in ACCRE using slurm scripts which I can't link here. I did upload some example slurm scripts in the training folder above. 
-
+Much of my work happened in ACCRE using slurm scripts which I can't really link here. I did upload an example slurm script in the training folder above. 
 
 ## Resources:
 
 Lab website: https://vkc.vumc.org/multisensory/index.html
 
 Neural network training: https://github.com/pytorch/examples/tree/main/imagenet
-
-Articles:
-- 
-
--
-
--
 
 Prismer resources:
 - https://huggingface.co/spaces/lorenmt/prismer
