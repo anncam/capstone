@@ -10,3 +10,5 @@ Below is an example slurm job I used to train a resnet50 model on the mini-Image
 
 
 Mini ImageNet download source: https://www.kaggle.com/datasets/arjunashok33/miniimagenet
+
+PyTorch neural network repository: https://github.com/pytorch/examples/tree/main/imagenet
